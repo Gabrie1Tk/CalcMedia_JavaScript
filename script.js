@@ -1,4 +1,3 @@
-function calcMedia() {
     let n1 = prompt("Digite o primeiro número:");
     let n2 = prompt("Digite o segundo número:");
     let n3 = prompt("Digite o terceiro número:");
@@ -13,4 +12,3 @@ function calcMedia() {
 
     console.log(`Números usados: ${n1}, ${n2}, ${n3}, ${n4}`);
     console.log("A média dos números é: " + media);
-}
