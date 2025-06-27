@@ -1,3 +1,6 @@
+
+    alert ('Seja bem-vindo ao jogo da Média, Você ira inserir 4 numeros!!');
+
     let n1 = prompt("Digite o primeiro número:");
     let n2 = prompt("Digite o segundo número:");
     let n3 = prompt("Digite o terceiro número:");
