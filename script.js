@@ -1,5 +1,5 @@
 
-    alert ('Seja bem-vindo ao jogo da Média, Você ira inserir 4 numeros!!');
+    alert ("Seja bem-vindo ao jogo da Média do 4, Você ira inserir 4 números!!");
 
     let n1 = prompt("Digite o primeiro número:");
     let n2 = prompt("Digite o segundo número:");
