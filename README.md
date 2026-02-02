@@ -1,8 +1,8 @@
-# 🧮 Calculadora de Média - Lógica JS
+# Calculadora de Média - Lógica JS
 
 Este repositório contém um script em JavaScript focado em lógica de programação. O objetivo é realizar o cálculo de média de notas capturando dados via caixas de diálogo do navegador e exibindo o processamento no Console de Desenvolvedor.
 
-## 🌐 Demonstração Online
+## Demonstração Online
 
 Acesse o link abaixo para rodar o script:
 
@@ -10,7 +10,7 @@ Acesse o link abaixo para rodar o script:
 
 > **Link:** https://gabrie1tk.github.io/CalcMedia_JavaScript/
 
-## ⚙️ Como Utilizar
+## Como Utilizar
 
 Este projeto não possui interface gráfica (HTML/CSS), pois o foco é o algoritmo. Siga os passos:
 
@@ -19,18 +19,18 @@ Este projeto não possui interface gráfica (HTML/CSS), pois o foco é o algorit
 3.  Após preencher tudo, **pressione a tecla `F12`** (ou clique com botão direito > Inspecionar > Console).
 4.  O resultado final do cálculo e o status de aprovação estarão exibidos no **Console**.
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 - [x] **Coleta de Dados:** Utiliza `window.prompt()` para capturar as entradas do usuário.
 - [x] **Processamento:** Converte as entradas (String) para números e realiza o cálculo da média.
 - [x] **Saída de Dados:** Utiliza `console.log()` para exibir os resultados detalhados no depurador do navegador.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 * **JavaScript (Vanilla):** Todo o fluxo de controle e lógica matemática.
 * **HTML:** Apenas estrutura básica para carregar o script.
 
-## 📂 Instalação Local
+## Instalação Local
 
 1.  Clone o repositório:
     ```bash
@@ -42,6 +42,3 @@ Este projeto não possui interface gráfica (HTML/CSS), pois o foco é o algorit
 ## Autor
 
 Desenvolvido por **[Gabriel Takao](https://github.com/Gabrie1Tk)**.
-
----
-*Projeto focado em algoritmos e manipulação do Console.*
